@@ -1,0 +1,22 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "An npm command to inject custom code using node package manager",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exclusiveabhi/abhishek.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhishek",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/exclusiveabhi/abhishek/issues"
+  },
+  "homepage": "https://github.com/exclusiveabhi/abhishek#readme"
+}
