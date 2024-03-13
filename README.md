@@ -1,4 +1,4 @@
-# Abhishek-r-n NPM Package
+# abhishek-r-n NPM Package
 
 ## Overview
 
