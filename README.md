@@ -1,4 +1,4 @@
-# Abhishek-R-N NPM Package
+# Abhishek-r-n NPM Package
 
 ## Overview
 
@@ -35,8 +35,8 @@ The package is in testing, so some features may not be complete. Your feedback i
 
 ## Issues and Contributions
 
-If you find problems or want to contribute, check the [GitHub repository](https://github.com/exclusiveabhi/abhishek-r-n.git).
+If you find problems or want to contribute, check the [GitHub repository](https://github.com/exclusiveabhi/abhishek.git).
 
 ## License
 
-This project is under the Apache 2.0 License. See [LICENSE](LICENSE) for details.
+This project is under the Apache 2.0 License.
